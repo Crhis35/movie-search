@@ -6,7 +6,7 @@ Elastic Search Engine
 
 Before start you should have some configurations setups.
 
-Install ![docker image](https://opensearch.org/docs/latest/opensearch/install/docker/)
+Install [docker image](https://opensearch.org/docs/latest/opensearch/install/docker/)
 
 ```sh
 docker pull opensearchproject/opensearch:latest
